@@ -1,0 +1,12 @@
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/CMakeFiles/rebuild_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/CMakeFiles/nanovg.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/CMakeFiles/edit_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/external/glfw-3.2.1/CMakeFiles/rebuild_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/external/glfw-3.2.1/CMakeFiles/edit_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/external/glfw-3.2.1/src/CMakeFiles/rebuild_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/external/glfw-3.2.1/src/CMakeFiles/edit_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/source/CMakeFiles/rebuild_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/source/CMakeFiles/edit_cache.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/source/CMakeFiles/hello.dir
+/home/eric/Programmiersprachen_Uebungen/programmiersprachen_aufgabenblatt_4/build/source/CMakeFiles/tests.dir

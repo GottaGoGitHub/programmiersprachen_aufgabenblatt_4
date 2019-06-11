@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall  -rdynamic CMakeFiles/tests.dir/TestList.cpp.o  -o tests 
