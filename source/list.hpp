@@ -108,14 +108,14 @@ class List{
         first_{nullptr},
         size_{0}{
             ListNode<T>* ptr1 = list2.first_; 
-            while( ptr1 != nullptr){ 
+            while(ptr1 != nullptr){ 
                 push_back(ptr1->value); 
                 ptr1 = ptr1->next; 
             }
         }   
     
 
-  	/* ... */
+  	
     //TODO: Move-Konstruktor (Aufgabe 4.13)
     List(List<T>&& list2):
         first_{list2.first_},
@@ -127,13 +127,9 @@ class List{
         }
 
     //TODO: Initializer-List Konstruktor (4.14)
-  	/* ... */
     List(std::initializer_list<T> ini_list) {
   		//not implemented yet
     }
-
-  	/* ... */
-    //TODO: Assignment operator (Aufgabe 4.12)
 
   	//returned true, wenn zwei Listen die selben nodes haben
     bool operator ==(List const& list2) const
@@ -218,6 +214,7 @@ class List{
 
   	/* Dreht den Inhalt der Liste um */
     //TODO: member function reverse
+    
 
     //fügt das Element vorne an die Liste an
     void push_front(T const& element) {
@@ -308,12 +305,12 @@ class List{
       else{
           return false;
           } 
-      };
+    };
 
     //gibt die Anzahl der Elemente aus
-  std::size_t size() const{
-    return size_;
-  };
+    std::size_t size() const{
+        return size_;
+    };
 
 
   private:
@@ -321,11 +318,5 @@ class List{
     ListNode<T>* first_;
     ListNode<T>* last_;
 };
-
-/* Dreht die Liste um*/
-//TODO: Freie Funktion reverse
-
-/* ... */
-//TODO: Freie Funktion operator+ (4.14)
 
 #endif

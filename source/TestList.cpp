@@ -101,7 +101,7 @@ TEST_CASE("iterator begin")
     List<int> list;
     list.push_front(42);
     list.push_front(22);
-    REQUIRE(22 == * list.begin());
+    REQUIRE(22 == *list.begin());
 }
 
 TEST_CASE("compare lists")
