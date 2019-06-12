@@ -44,8 +44,8 @@ struct ListIterator {
       }
     }
 
-    //der iterator geht eins weiter und der letzte knoten wird returned
-    ListIterator<T> operator++(int x){ 
+    //iterator geth eins weiter, vorher wird die node returned
+    ListIterator<T> operator++(int){ 
       if(node->next != nullptr){
         node = node->next;
         return *this;
